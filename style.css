@@ -1,7 +1,20 @@
+/* color pallete
+light green - #88c543
+normal green - #329a11 
+blue - #1c59c3
+*/
+
+
 header {
-    height: 3vh
+    height: 10vh;
+    background-color: #1c59c3;
 }
 
-main {
-    height: 93vh;
+#headerLogo {
+    height: 10vh;
+}
+
+.headerNavLinks {
+    text-decoration: none;
+    color: white
 }
